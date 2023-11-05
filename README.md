@@ -50,4 +50,4 @@ This code is released under the [MIT License](LICENSE).
 yaBot is developed by GrozdniyAndy of [XSS.is](https://xss.is).
 
 ## Contributing
-Feel free to contribute, report issues, or suggest improvements by creating pull requests or issues in the GitHub repository. Enjoy using this simple clickjacking checker!
+Feel free to contribute, report issues, or suggest improvements by creating pull requests or issues in the GitHub repository. Enjoy using this simple captcha bypasser!
