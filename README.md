@@ -1,8 +1,8 @@
-# yaBot (Я Бот)
+# yaBot (яБот)
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-yaBot (Я Бот) is a command-line tool written in Go for solving the v2 invisible reCaptcha only with requests.
+yaBot (яБот) is a command-line tool written in Go for solving the v2 invisible reCaptcha only with requests.
 
 ## Table of Contents
 - [Features](https://github.com/grozdniyandy/yaBot#features)
